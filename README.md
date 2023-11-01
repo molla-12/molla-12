@@ -3,7 +3,9 @@
    🔭 I’m currently working on PL/SQL Laravel developer
    </br>
    👯 I’m looking to collaborate on new project
+      </br>
    📫 How to reach me:mollaman19@gmail.com or +251928526047
+      </br>
    😄 Pronouns:He
 
 <!--
