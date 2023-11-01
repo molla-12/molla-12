@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm experienced software developer
 
-   🔭 I’m currently working on PL/SQL Laravel developer
+   🔭 I’m currently working as PL/SQL and Laravel developer
    </br>
    👯 I’m looking to collaborate on new project
       </br>
