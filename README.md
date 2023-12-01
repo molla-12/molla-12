@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm experienced software developer
 
-   🔭 I’m full-stack nodejs,PL/SQL,PHP/Laravel, Node.js/Express.js, Python/Django developer
+   🔭 I’m full-stack PL/SQL, PHP/Laravel, Node.js/Express.js, Python/Django developer
    </br>
    🔭 I’m currently working as PL/SQL and web developer
    </br>
