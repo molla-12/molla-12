@@ -1,4 +1,4 @@
-### Hi there 👋 I'm experienced software developer ,FREELANCER
+### Hi there 👋 I'm Experienced Fullstack Backend-Heavy Developer ,FREELANCER
 
    🔭 I’m full-stack PL/SQL, PHP/Laravel, Node.js/Express.js, Python/Django developer
    </br>
