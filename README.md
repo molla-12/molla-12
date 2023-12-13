@@ -1,4 +1,4 @@
-### Hi there 👋 I'm experienced software developer , <link>FREELANCER</link>
+### Hi there 👋 I'm experienced software developer , <p text-green>FREELANCER</p>
 
    🔭 I’m full-stack PL/SQL, PHP/Laravel, Node.js/Express.js, Python/Django developer
    </br>
