@@ -1,4 +1,4 @@
-### Hi there 👋 I'm experienced software developer
+### Hi there 👋 I'm experienced software developer , FREELANCER
 
    🔭 I’m full-stack PL/SQL, PHP/Laravel, Node.js/Express.js, Python/Django developer
    </br>
