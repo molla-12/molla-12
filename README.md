@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Experienced Backend-Heavy Full-Stack Developer ,FREELANCER
+### Hi there 👋 I'm Experienced Full-Stack Developer ,FREELANCER
 
    🔭 I’m full-stack PL/SQL, PHP/Laravel, Nextjs developer
    </br>
