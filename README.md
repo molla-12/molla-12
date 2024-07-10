@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Experienced Backend-Heavy Full-Stack Developer ,FREELANCER
 
-   🔭 I’m full-stack PL/SQL, PHP/Laravel, Node.js/Express.js, Python/Django and React.js developer
+   🔭 I’m full-stack PL/SQL, PHP/Laravel, Nextjs developer
    </br>
-   🔭 I’m currently working as PL/SQL and Remote Backend developer
+   🔭 I’m currently working as PL/SQL and Remote Nextjs developer
    </br>
    👯 I’m looking to collaborate on new project
       </br>
