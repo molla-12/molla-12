@@ -2,7 +2,7 @@
 
    🔭 I’m full-stack PL/SQL, PHP/Laravel, Nextjs developer
    </br>
-   🔭 I’m currently working as PL/SQL and Remote Nextjs developer
+   🔭 I’m currently working as PL/SQL developer for core banking system and Remote Nextjs developer
    </br>
    👯 I’m looking to collaborate on new project
       </br>
